@@ -1,5 +1,8 @@
 # P2FA
-This repository contains the PyTorch code for the paper: [Pixel2Feature Attack (P2FA): Rethinking the Perturbed Space to Enhance Adversarial Transferability](https://openreview.net/forum?id=bPJo5uSkOJ)(ICML 2025)
+[ICML 2025] This repository contains the PyTorch code for the paper: [Pixel2Feature Attack (P2FA): Rethinking the Perturbed Space to Enhance Adversarial Transferability]([https://openreview.net/forum?id=bPJo5uSkOJ](https://proceedings.mlr.press/v267/liu25cd.html))
+
+[Renpu Liu](https://github.com/WH-Lrp), [Hao Wu](https://github.com/tlemangen), Jiawei Zhang, Xin Cheng, Xiangyang Luo, Bin Ma, Jinwei Wang
+
 ## Datasets
 1000 images for the NIPS 2017 adversarial competition.
 ```

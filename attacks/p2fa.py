@@ -7,7 +7,7 @@ from utils import imagenet_denormalize, imagenet_normalize
 
 class P2FA(Attack):
 
-    def __init__(self, model, eps=16 / 255, steps=10, decay=1.0, ensemble_number=30, eta=28.0,
+    def __init__(self, model, eps=16 / 255, steps=3, decay=1.0, ensemble_number=30, eta=28.0,
                  layer_name='Mixed_5b', device='cuda:0'):
         """
         :param model: DNN model
